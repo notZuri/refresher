@@ -1,0 +1,12 @@
+# VS Code settings folder (not needed in repo)
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Temporary backup files (created when saving in some editors)
+*.bak
+*.tmp

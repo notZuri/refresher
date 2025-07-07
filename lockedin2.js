@@ -1,8 +1,14 @@
-let userName = "Ian";
-let password = "password123";
+let years = 4;
+let language = `js`;
 
-if (userName === "Ian" && password === "password123") {
-    alert("Login successful!");
-} else if (userName === "Ian" && password !== "password123") {
-    alert("Incorrect password");
+//alert(!((years > 5) && (language === `asd`)));
+
+
+let isGood = false;
+let malakas = false;
+
+if (!(isGood && malakas)) {
+    console.log(`Galing mo boss!`);
+} else {
+    console.log(`Hindi ka magaling boss!`);
 }

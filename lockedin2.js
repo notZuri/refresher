@@ -17,8 +17,9 @@ if (!(isGood && malakas)) {
 let name = `John`;
 let course = `JavaScript`;
 
-if (!(name === `John` && course === `JavaScript`)) {
-    console.log(`You are not John and you are not taking JavaScript.`);
-}  else {
-    console.log(`You are John and you are taking JavaScript.`);
+
+if ((name === `John` && course == `JavaScript`)){
+    console.log(`what's up john, is javascript hard?`);
+} else {
+    console.log(`Who are you my men?`);
 }

@@ -15,7 +15,7 @@ if (!(isGood && malakas)) {
 
 
 let name = `John`;
-let name2 = `Jhon`
+let name2 = `Jonh`
 let course = `JavaScript`;
 
 

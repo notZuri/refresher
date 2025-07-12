@@ -15,10 +15,11 @@ if (!(isGood && malakas)) {
 
 
 let name = `John`;
+let name2 = `Jhon`
 let course = `JavaScript`;
 
 
-if ((name === `John` && course == `JavaScript`)){
+if ((name === `John` && name2 === `Jhon`&& course == `JavaScript`)){
     console.log(`what's up john, is javascript hard?`);
 } else {
     console.log(`Who are you my men?`);
